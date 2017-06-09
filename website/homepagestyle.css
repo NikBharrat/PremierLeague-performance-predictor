@@ -1,0 +1,17 @@
+*{
+	font-family: 'Raleway', sans-serif;
+}
+
+h1{
+	color: Purple;
+	font-size: 40px;
+	text-align: center;
+}
+
+body{
+	text-align: center;
+}
+
+option, select{
+    font-size: 15px
+}
